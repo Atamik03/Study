@@ -1,0 +1,24 @@
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/bin/Debug/net6.0/CalculatorFunc.deps.json
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/bin/Debug/net6.0/CalculatorFunc.dll
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/bin/Debug/net6.0/CalculatorFunc.pdb
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/obj/Debug/net6.0/CalculatorFunc.csproj.AssemblyReference.cache
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/obj/Debug/net6.0/CalculatorFunc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/obj/Debug/net6.0/CalculatorFunc.AssemblyInfoInputs.cache
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/obj/Debug/net6.0/CalculatorFunc.AssemblyInfo.cs
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/obj/Debug/net6.0/CalculatorFunc.csproj.CoreCompileInputs.cache
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/obj/Debug/net6.0/CalculatorFunc.dll
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/obj/Debug/net6.0/refint/CalculatorFunc.dll
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/obj/Debug/net6.0/CalculatorFunc.pdb
+/Users/shubhamdhamane/Documents/cambrian/sem2/adv web/Assignments/Web_CalculatorAPI/CalculatorFunc/obj/Debug/net6.0/ref/CalculatorFunc.dll
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\bin\Debug\net6.0\CalculatorFunc.deps.json
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\bin\Debug\net6.0\CalculatorFunc.dll
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\bin\Debug\net6.0\CalculatorFunc.pdb
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\obj\Debug\net6.0\CalculatorFunc.csproj.AssemblyReference.cache
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\obj\Debug\net6.0\CalculatorFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\obj\Debug\net6.0\CalculatorFunc.AssemblyInfoInputs.cache
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\obj\Debug\net6.0\CalculatorFunc.AssemblyInfo.cs
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\obj\Debug\net6.0\CalculatorFunc.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\obj\Debug\net6.0\CalculatorFunc.dll
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\obj\Debug\net6.0\refint\CalculatorFunc.dll
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\obj\Debug\net6.0\CalculatorFunc.pdb
+C:\Users\ASUS\Source\Repos\Web_CalculatorAPI\CalculatorFunc\obj\Debug\net6.0\ref\CalculatorFunc.dll
